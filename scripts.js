@@ -25,7 +25,7 @@ const project_images = [
     "./images/tribute-page.PNG",
     "./images/documentation-page.PNG",
     "./images/product-landing-page.PNG",
-    "./images/survey-form.pNG",
+    "./images/survey-form.PNG",
 ];
 
 const project_container = document.querySelector("#projects");
