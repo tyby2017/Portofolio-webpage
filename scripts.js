@@ -14,24 +14,19 @@ const project_links = [
 ];
 
 const project_images = [
-    "/images/tic-tac-toe.PNG",
-    "/images/library-app.PNG",
-    "/images/etch-a-scketch.PNG",
-    "/images/rock-paper-scissors.PNG",
-    "/images/calculator-app.PNG",
-    "/images/google-homepage.PNG",
-    "/images/google-results.PNG",
-    "/images/restaurant-page.PNG",
-    "/images/tribute-page.PNG",
-    "/images/documentation-page.PNG",
-    "/images/product-landing-page.PNG",
-    "/images/survey-form.pNG",
+    "./images/tic-tac-toe.PNG",
+    "./images/library-app.PNG",
+    "./images/etch-a-scketch.PNG",
+    "./images/rock-paper-scissors.PNG",
+    "./images/calculator-app.PNG",
+    "./images/google-homepage.PNG",
+    "./images/google-results.PNG",
+    "./images/restaurant-page.PNG",
+    "./images/tribute-page.PNG",
+    "./images/documentation-page.PNG",
+    "./images/product-landing-page.PNG",
+    "./images/survey-form.pNG",
 ];
-
-const contacts = [
-    "www.linkedin.com/in/tiberiu-cornel-miinea-354795140",
-    "https://github.com/tyby2017",
-]
 
 const project_container = document.querySelector("#projects");
 let contor = 0;
