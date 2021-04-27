@@ -16,8 +16,8 @@ const project_links = [
 ];
 
 const project_images = [
-    "./images/cv-app.PNG",
     "./images/todo-list.PNG",
+    "./images/cv-app.PNG",
     "./images/tic-tac-toe.PNG",
     "./images/library-app.PNG",
     "./images/etch-a-scketch.PNG",
