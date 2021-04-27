@@ -1,4 +1,6 @@
 const project_links = [
+    "https://tyby2017.github.io/Todo-List",
+    "https://tyby2017.github.io/CV-Application",
     "https://tyby2017.github.io/Tic-tac-toe",
     "https://tyby2017.github.io/Library-app",
     "https://tyby2017.github.io/Etch-a-Sketch",
@@ -14,6 +16,8 @@ const project_links = [
 ];
 
 const project_images = [
+    "./images/cv-app.PNG",
+    "./images/todo-list.PNG",
     "./images/tic-tac-toe.PNG",
     "./images/library-app.PNG",
     "./images/etch-a-scketch.PNG",
